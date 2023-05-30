@@ -22,6 +22,17 @@
    페이지는 하나인데 여러개인것처럼 눈속임을 한다. 
    --> 자바스크립트가 해준다. 페이지를 매번 새로고침할 필요가 없음.
    웹사이트를 모바일앱처럼 사용할수 있음
+   
+   
+ # VS CODE 확장프로그램
+ ![image](https://github.com/understanding963852/react_basic/assets/60366769/63a1ec1a-dcbb-41cb-9b9c-b86417a06bcd)
+ 
+ # setting 설정
+![image](https://github.com/understanding963852/react_basic/assets/60366769/f3dae719-e5c3-4996-925b-ddabeb14cdc5)
+
+![image](https://github.com/understanding963852/react_basic/assets/60366769/81ff8537-4068-48ee-8bf0-f3161844c6d4)
+
+
 
 
 
