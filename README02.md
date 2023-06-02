@@ -27,6 +27,15 @@
   
 # 함수 밖으로 빼기
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/200daebf-b6f8-40ea-a778-8c10213016d1)
+  
+  
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다  
+  ![image](https://github.com/understanding963852/react_basic/assets/60366769/2dd73d44-2ddc-4fbd-a709-f2619371cdc9)
+
+#  react에는서 변수가 바뀐다해서 리랜더링이 일어나지 않는다
+#  ==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+ ![image](https://github.com/understanding963852/react_basic/assets/60366769/f1869d1c-ac54-4982-839a-861b8228fd32)
+
 
 
 
