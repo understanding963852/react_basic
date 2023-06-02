@@ -20,6 +20,13 @@
   
 # 함수를 밖으로 빼기
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/39e8002d-1dcf-437b-9222-28fc5696605c)
+  
+# 클릭하면 함수실행(Event Handling)
+  ![image](https://github.com/understanding963852/react_basic/assets/60366769/8be201ca-1183-460d-9515-ff6c9f627b1c)
+==> 화살표함수로 바뀜
+  
+# 함수 밖으로 빼기
+![image](https://github.com/understanding963852/react_basic/assets/60366769/200daebf-b6f8-40ea-a778-8c10213016d1)
 
 
 
