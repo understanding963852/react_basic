@@ -11,3 +11,9 @@
 
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/469f171a-20f0-491c-a4b8-17583921a6fb)
 
+# useEffect 
+![image](https://github.com/understanding963852/react_basic/assets/60366769/17bcdec5-fa4d-4ad8-a7ed-5592553b31e1)
+--------------------------------
+![image](https://github.com/understanding963852/react_basic/assets/60366769/ecdc0527-aaac-4f0b-9d9b-d93ce66fd9cf)
+![image](https://github.com/understanding963852/react_basic/assets/60366769/5669d52f-69e1-4ba5-9870-2263224cf6ae)
+
