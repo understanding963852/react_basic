@@ -16,6 +16,10 @@
  # 그래서 port를 변경해 주어야 한다
  
         json-server --watch db.json --port 3004
+        
+# 혹 실행이 안된다면 아래를 적용한다         
+
+        npx json-server --watch db.json --port 3004
  
 
 
