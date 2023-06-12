@@ -26,6 +26,9 @@
 ![image](https://github.com/understanding963852/react_basic/assets/60366769/d9bb922f-9192-42c3-a979-19ede6e7592d)
 
         npm i axios
+        
+![image](https://github.com/understanding963852/react_basic/assets/60366769/752a189c-4fee-42d7-80b6-9cf53b61d75b)
+
  
 
 
